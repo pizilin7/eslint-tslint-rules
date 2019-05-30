@@ -56,17 +56,17 @@ npm install tslint -g
 
 在vscode的插件中心分别搜索ESLint和TSLint
 
-![1559187234398](E:\Notes\2019.5-6\eslint和tslint\assets\1559187234398.png)
+![1559187234398](assets\1559187234398.png)
 
 ##### webostrom
 
 tslint:
 
-![1559199239156](E:\Notes\2019.5-6\eslint和tslint\assets\1559199239156.png)
+![1559199239156](assets\1559199239156.png)
 
 eslint:
 
-![1559200269558](E:\Notes\2019.5-6\eslint和tslint\assets\1559200269558.png)
+![1559200269558](assets\1559200269558.png)
 
 
 
